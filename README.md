@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monospace&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=60&lines=Hello.+My+name+is+YOUR_NAME;I'm+a+Security+Researcher;Welcome+to+my+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monospace&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=60&lines=Hello.+My+name+is+whyudontcallme?;I'm+a+Security+Researcher;Welcome+to+my+profile)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,11 +19,6 @@
 ---
 
 <div align="center">
-/ ___// ___/ _/ / / / __ / /
-_ / / / / / /_/ / / // / /
-__/ / / / // _/ / / / /
-/// ____// // // //
-E S T . R E P . D E L .
 
 </div>
 
@@ -83,27 +78,6 @@ E S T . R E P . D E L .
 
 </div>
 
----
-
-## 🔥 **Streak Stats**
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=00ff00)
-
-</div>
-
----
-
-## 🏆 **Achievements**
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://git.io/typing-svg)
-
-</div>
-
----
 
 ## 💻 **Popular Projects**
 
