@@ -64,20 +64,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-</div>
-
----
-
-## 📊 **GitHub Stats**
-
-<div align="center">
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&title_color=00ff00&icon_color=00ff00&text_color=00ff00&bg_color=0d1117)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&title_color=00ff00&text_color=00ff00&bg_color=0d1117)
-
-</div>
-
 
 ## 💻 **Popular Projects**
 
