@@ -32,7 +32,7 @@
 
 </div>
 
-> *"I'm just a guy who's really good with computers."* - Elliot Alderson
+> *" What if what we see isn't the real world, but just a guess of our minds? What if we're only seeing a distorted image that we'll never fully understand?"* - Elliot Alderson
 
 - 🔭 I'm currently working on **breaking things (ethically)**
 - 🌱 I'm currently learning **Cybersecurity & Penetration Testing**
