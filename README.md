@@ -101,7 +101,7 @@
 
 ---
 
-**[ END OF LINE ]_**
+**[ END OF LINE ] **
 
 </div>
 
