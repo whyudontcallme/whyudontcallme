@@ -38,7 +38,7 @@
 - 🌱 I'm currently learning **Cybersecurity & Penetration Testing**
 - 👯 I'm looking to collaborate on **Open Source Security Projects**
 - 💬 Ask me about **Linux, Python, Network Security**
-- ⚡ Fun fact: **I hack legally (Bug Bounty Hunter)**
+- ⚡ Fun fact: **The biggest illusion is that we have a choice.**
 
 ---
 
@@ -105,10 +105,3 @@
 
 </div>
 
-<!-- 
-  Remember to replace:
-  - YOUR_NAME with your actual name
-  - YOUR_USERNAME with your GitHub username
-  
-  fsociety.dat
--->
