@@ -1,17 +1,13 @@
-[GITHUB_PROFILE_README.md](https://github.com/user-attachments/files/34145541/GITHUB_PROFILE_README.md)
 <div align="center">
 
-<!-- HEADER CYBERPUNK CAPTION -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=07090b&height=220&section=header&text=MUSO%20SHOKIROV&fontSize=48&fontColor=00ff66&fontAlignY=38&desc=17%20y.o.%20%7C%20AI-Augmented%20Full-Stack%20Developer%20%7C%20fsociety%20mindset&descAlignY=60&descAlign=50&descSize=18&descColor=e6f7ec" width="100%" alt="Header" />
 
-<!-- TYPING SVG TERMINAL -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2400&pause=1000&color=00FF66&center=true&vCenter=true&width=800&lines=%24+whoami+--verbose;%3E+Muso+Shokirov+(17+y.o.)+from+St.+Petersburg;%24+cat+philosophy.txt;%3E+AI+is+a+force+multiplier%2C+never+a+crutch;%24+deploy+production_service;%3E+Full-Stack+%7C+Telegram+Business+Bots+%7C+WebGL+3D" alt="Typing SVG" />
 </a>
 
 <br><br>
 
-<!-- ACTION BADGES -->
 <p align="center">
   <a href="https://t.me/byecash">
     <img src="https://img.shields.io/badge/TELEGRAM-@byecash-00ff66?style=for-the-badge&logo=telegram&logoColor=000&labelColor=0d1217" alt="Telegram" />
@@ -37,55 +33,31 @@
 
 </div>
 
-<br>
-
-<!-- =================================================================== -->
-<!-- ELITE CYBERPUNK HUD METRICS DASHBOARD -->
-<!-- =================================================================== -->
-<h3 align="center">⚡ SYSTEM TELEMETRY & OVERCLOCK STATUS ⚡</h3>
-
-```ansi
- [1;32m┌──(whyudontcallme㉿fsociety)-[~/system/telemetry]
-└─$ [0m sys-stats --deep-scan --rank
- [1;36m[+] DEVELOPER:     [1;37mMuso Shokirov (17 y.o., St. Petersburg)
- [1;36m[+] RANKING:       [1;32m[ S+ ] TOP TIER SPECIALIST (FORCE MULTIPLIER: x10)
- [1;36m[+] AGILITY:       [1;32m99.4% (MVP prototype to production in < 8 hours)
- [1;36m[+] CODE ACCURACY: [1;32m99.8% (Strict typing, Zero-leak async architecture)
- [1;36m[+] AI SYNERGY:    [1;32mMAXIMUM (Neural Augmented Decomposition & Stress-Testing)
- [1;36m[+] STACK INTEGRITY: [1;33mTypeScript/JS • Python • TG Business API • WebGL 3D
- [1;32m[✓] ACCESS LEVEL: ROOT / ETHICAL OVERDRIVE ENABLED [0m
-```
+<!--
+  IMPORTANT: custom HUD widgets (telemetry / skills / achievements) live in ./widgets/*.svg
+  Copy the whole "widgets" folder into your profile repo (whyudontcallme/whyudontcallme)
+  so the relative paths below resolve. Everything else loads from public services.
+-->
 
 <br>
 
-<div align="center">
+<h3 align="center">⚡ SYSTEM TELEMETRY &amp; OVERCLOCK STATUS ⚡</h3>
 
-<!-- STATS CARDS ROW 1: ENHANCED CYBER MATRIX STATS -->
-<img src="https://github-readme-stats.vercel.app/api?username=whyudontcallme&show_icons=true&theme=matrix&hide_border=false&border_color=00ff66&bg_color=07090b&title_color=00ff66&text_color=e6f7ec&icon_color=00ff66&count_private=true&include_all_commits=true&custom_title=%E2%9A%A1%20DEVELOPER%20METRICS" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyudontcallme&layout=compact&theme=matrix&hide_border=false&border_color=00ff66&bg_color=07090b&title_color=00ff66&text_color=e6f7ec&custom_title=%F0%9F%9B%A0%EF%B8%8F%20CORE%20LANGUAGES" width="49%" alt="Top Languages" />
+<p align="center">
+  <img src="./widgets/telemetry.svg" alt="System telemetry — Muso Shokirov" width="100%" />
+</p>
 
-<br><br>
-
-<!-- STATS CARDS ROW 2: STREAK & PRODUCTIVITY RADAR -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=whyudontcallme&theme=matrix&hide_border=false&border_color=00ff66&background=07090b&ring=00ff66&fire=00e5ff&currStreakLabel=00ff66&dates=e6f7ec" width="98.5%" alt="Streak Stats" />
-
-<br><br>
-
-<!-- STATS CARDS ROW 3: ACTIVITY MATRIX GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=whyudontcallme&theme=matrix&hide_border=false&border_color=00ff66&bg_color=07090b&color=00ff66&line=00ff66&point=00e5ff&area=true&area_color=00ff66" width="98.5%" alt="Activity Graph" />
-
-<br><br>
-
-<!-- GITHUB TROPHIES: MATRIX STYLE -->
-<img src="https://github-profile-trophy.vercel.app/?username=whyudontcallme&theme=matrix&no-frame=false&border_color=00ff66&margin-w=4&margin-h=4" width="98.5%" alt="Trophies" />
-
-</div>
-
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/RANK-S%2B-00ff66?style=for-the-badge&labelColor=0d1217" alt="Rank S+" />
+  <img src="https://img.shields.io/badge/AGILITY-99.4%25-00e5ff?style=for-the-badge&labelColor=0d1217" alt="Agility 99.4%" />
+  <img src="https://img.shields.io/badge/CODE_ACCURACY-99.8%25-00ff66?style=for-the-badge&labelColor=0d1217" alt="Code accuracy 99.8%" />
+  <img src="https://img.shields.io/badge/AI_SYNERGY-x10-00e5ff?style=for-the-badge&labelColor=0d1217" alt="AI synergy x10" />
+  <img src="https://img.shields.io/badge/ACCESS-ROOT-ff0055?style=for-the-badge&labelColor=0d1217" alt="Root access" />
+</p>
 
 ---
 
-## 👤 Обо мне & Инженерная философия
+## 👤 Обо мне &amp; Инженерная философия
 
 - ⚡ **Возраст:** Мне **17 лет**, Санкт-Петербург (удалённо / проектная работа / Full-time).
 - 🧠 **ИИ как экзоскелет, а не костыль:**  
@@ -95,10 +67,15 @@
   - **Глубокий фундамент:** я знаю, как устроены алгоритмы, Event Loop, сокеты, заголовки и безопасность на уровне байтов, поэтому контролирую каждую строчку сгенерированного кода.
   - **Стресс-тестирование:** автогенерация десятков граничных кейсов (edge cases) и уязвимостей до релиза в прод.
 - 🚀 **Практика:** 35+ публичных репозиториев, коммерческие запуски в B2B, Telegram Business системы с реальной аудиторией, WebGL 3D.
+- 🛡️ **Интересы:** веб-архитектура, безопасность, Telegram Bot &amp; Business API, эвристические алгоритмы, Linux.
 
 ---
 
-## 🛠️ Технологический стек
+## 🛠️ Skill Matrix
+
+<p align="center">
+  <img src="./widgets/skills.svg" alt="Skill matrix — Frontend, Backend, WebGL, Security, AI-Augmented Engineering" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,threejs,nodejs,express,fastapi,git,github,docker,linux,kali,bash,vercel,netlify,sqlite,postman,vscode&perline=10&theme=dark" alt="Tech Stack" />
@@ -108,8 +85,46 @@
 - ✦ **Сверхбыстрый запуск MVP:** от голой идеи до живого работающего сервиса с деплоем за один день.
 - ✦ **Генерация нетривиальных edge-кейсов:** автоматический поиск уязвимостей в бизнес-логике и покрытие тестами.
 - ✦ **Интеллектуальный рефакторинг:** оптимизация сложности $O(n)$, повышение читаемости и архитектурной чистоты.
-- ✦ **Интеграция LLM & нейросетевых API:** построение пайплайнов с OpenAI, Claude и локальными моделями.
+- ✦ **Интеграция LLM &amp; нейросетевых API:** построение пайплайнов с OpenAI, Claude и локальными моделями.
 - ✦ **Продвинутый Prompt Engineering:** системные промпты, function calling и автономные цепочки выполнения.
+
+---
+
+## 📊 Live GitHub Telemetry
+
+<div align="center">
+
+<img src="https://github-readme-stats-one.vercel.app/api?username=whyudontcallme&show_icons=true&theme=matrix&hide_border=false&border_color=00ff66&bg_color=07090b&title_color=00ff66&text_color=e6f7ec&icon_color=00ff66&count_private=true&include_all_commits=true&custom_title=%E2%9A%A1%20DEVELOPER%20METRICS" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=whyudontcallme&layout=compact&theme=matrix&hide_border=false&border_color=00ff66&bg_color=07090b&title_color=00ff66&text_color=e6f7ec&custom_title=%F0%9F%9B%A0%EF%B8%8F%20CORE%20LANGUAGES" width="49%" alt="Top Languages" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=whyudontcallme&theme=matrix&background=07090b&border=00ff66&ring=00ff66&fire=00e5ff&currStreakLabel=00ff66&currStreakNum=00ff66&sideNums=e6f7ec&sideLabels=e6f7ec&dates=e6f7ec&stroke=00ff66&hide_border=false" width="98.5%" alt="Streak Stats" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whyudontcallme&theme=github_dark" width="98.5%" alt="Profile Details" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=whyudontcallme&theme=github_dark" width="49%" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=whyudontcallme&theme=github_dark" width="49%" alt="Most Commit Language" />
+
+</div>
+
+<!--
+  If the stats card ever stops loading, swap the host with one of these mirrors:
+    https://github-readme-stats.vercel.app              (official, often rate-limited)
+    https://github-readme-stats-sigma-five.vercel.app   (mirror)
+-->
+
+---
+
+## 🏅 Unlocked Achievements
+
+<p align="center">
+  <img src="./widgets/achievements.svg" alt="Unlocked achievements" width="100%" />
+</p>
 
 ---
 
@@ -129,6 +144,21 @@
 | 🛡️ **[DeepGuard](https://github.com/whyudontcallme/deepguard)** | Инструментарий мониторинга безопасности сетевого контура и проверки открытых портов. | `Python` `Network Auditing` `Linux` | [🐙 Репо](https://github.com/whyudontcallme/deepguard) |
 
 ---
+
+<!--
+  🐍 CONTRIBUTION SNAKE — optional, enable the Action first.
+  Workflow file: portfolio/github-workflows/snake.yml
+  Place it at:   .github/workflows/snake.yml
+  Then uncomment the block below:
+
+  ## 🐍 Contribution Snake
+
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/whyudontcallme/whyudontcallme/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%" />
+  </p>
+
+  ---
+-->
 
 ## 📬 Связаться со мной
 
@@ -150,6 +180,5 @@
 <br>
 
 <div align="center">
-<!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=07090b&height=120&section=footer&text=THE%20WORLD%20IS%20CONTROLLED%20BY%20THOSE%20WHO%20CONTROL%20THE%20CODE&fontSize=16&fontColor=00ff66" width="100%" alt="Footer" />
 </div>

@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="212" viewBox="0 0 1000 212" role="img" aria-label="Unlocked achievements">
+  <title>Unlocked achievements — Muso Shokirov</title>
+  <defs>
+    <linearGradient id="abg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07090b"/>
+      <stop offset="100%" stop-color="#0b1116"/>
+    </linearGradient>
+    <pattern id="agrid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#00ff66" stroke-opacity="0.05"/>
+    </pattern>
+    <filter id="aglow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="aclip">
+      <rect width="1000" height="212" rx="14"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#aclip)">
+    <rect width="1000" height="212" fill="url(#abg)"/>
+    <rect width="1000" height="212" fill="url(#agrid)"/>
+
+    <text x="500" y="30" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="12" fill="#5f7a6b" letter-spacing="4" text-anchor="middle">ACHIEVEMENTS // UNLOCKED</text>
+
+    <!-- Chip 1 -->
+    <rect x="30" y="46" width="176" height="132" rx="14" fill="#0d1217" stroke="#00ff66" stroke-opacity="0.4"/>
+    <path d="M44 46h18M30 60V46M192 46h14v14M206 164v14h-14M44 178H30v-14" fill="none" stroke="#00ff66" stroke-opacity="0.55" stroke-width="2"/>
+    <text x="118" y="104" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="34" font-weight="bold" fill="#00ff66" text-anchor="middle" filter="url(#aglow)">S+</text>
+    <line x1="58" y1="118" x2="178" y2="118" stroke="#00ff66" stroke-opacity="0.18"/>
+    <text x="118" y="142" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="11" fill="#e6f7ec" letter-spacing="1.5" text-anchor="middle">TOP RANK</text>
+    <text x="118" y="162" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="10" fill="#5f7a6b" letter-spacing="1" text-anchor="middle">TOP 1%</text>
+
+    <!-- Chip 2 -->
+    <rect x="221" y="46" width="176" height="132" rx="14" fill="#0d1217" stroke="#00e5ff" stroke-opacity="0.4"/>
+    <path d="M235 46h18M221 60V46M383 46h14v14M397 164v14h-14M235 178h-14v-14" fill="none" stroke="#00e5ff" stroke-opacity="0.55" stroke-width="2"/>
+    <text x="309" y="104" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="34" font-weight="bold" fill="#00e5ff" text-anchor="middle" filter="url(#aglow)">35+</text>
+    <line x1="249" y1="118" x2="369" y2="118" stroke="#00e5ff" stroke-opacity="0.18"/>
+    <text x="309" y="142" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="11" fill="#e6f7ec" letter-spacing="1.5" text-anchor="middle">REPOSITORIES</text>
+    <text x="309" y="162" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="10" fill="#5f7a6b" letter-spacing="1" text-anchor="middle">PUBLIC WORK</text>
+
+    <!-- Chip 3 -->
+    <rect x="412" y="46" width="176" height="132" rx="14" fill="#0d1217" stroke="#00ff66" stroke-opacity="0.4"/>
+    <path d="M426 46h18M412 60V46M574 46h14v14M588 164v14h-14M426 178h-14v-14" fill="none" stroke="#00ff66" stroke-opacity="0.55" stroke-width="2"/>
+    <text x="500" y="104" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="30" font-weight="bold" fill="#00ff66" text-anchor="middle" filter="url(#aglow)">99.8%</text>
+    <line x1="440" y1="118" x2="560" y2="118" stroke="#00ff66" stroke-opacity="0.18"/>
+    <text x="500" y="142" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="11" fill="#e6f7ec" letter-spacing="1.5" text-anchor="middle">CODE ACCURACY</text>
+    <text x="500" y="162" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="10" fill="#5f7a6b" letter-spacing="1" text-anchor="middle">ZERO-LEAK</text>
+
+    <!-- Chip 4 -->
+    <rect x="603" y="46" width="176" height="132" rx="14" fill="#0d1217" stroke="#00e5ff" stroke-opacity="0.4"/>
+    <path d="M617 46h18M603 60V46M765 46h14v14M779 164v14h-14M617 178h-14v-14" fill="none" stroke="#00e5ff" stroke-opacity="0.55" stroke-width="2"/>
+    <text x="691" y="104" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="34" font-weight="bold" fill="#00e5ff" text-anchor="middle" filter="url(#aglow)">×10</text>
+    <line x1="631" y1="118" x2="751" y2="118" stroke="#00e5ff" stroke-opacity="0.18"/>
+    <text x="691" y="142" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="11" fill="#e6f7ec" letter-spacing="1.5" text-anchor="middle">FORCE MULTIPLIER</text>
+    <text x="691" y="162" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="10" fill="#5f7a6b" letter-spacing="1" text-anchor="middle">HUMAN + AI</text>
+
+    <!-- Chip 5 -->
+    <rect x="794" y="46" width="176" height="132" rx="14" fill="#0d1217" stroke="#ff0055" stroke-opacity="0.45"/>
+    <path d="M808 46h18M794 60V46M956 46h14v14M970 164v14h-14M808 178h-14v-14" fill="none" stroke="#ff0055" stroke-opacity="0.6" stroke-width="2"/>
+    <text x="882" y="104" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="32" font-weight="bold" fill="#ff0055" text-anchor="middle" filter="url(#aglow)">ROOT</text>
+    <line x1="822" y1="118" x2="942" y2="118" stroke="#ff0055" stroke-opacity="0.18"/>
+    <text x="882" y="142" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="11" fill="#e6f7ec" letter-spacing="1.5" text-anchor="middle">ACCESS LEVEL</text>
+    <text x="882" y="162" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="10" fill="#5f7a6b" letter-spacing="1" text-anchor="middle">ETHICAL MODE</text>
+
+    <text x="500" y="198" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="9" fill="#3f5548" letter-spacing="2" text-anchor="middle">SELF-REPORTED TELEMETRY · FSOCIETY STANDARDS · NO CRUTCHES WERE USED</text>
+  </g>
+
+  <rect x="0.5" y="0.5" width="999" height="211" rx="14" fill="none" stroke="#00ff66" stroke-opacity="0.45"/>
+</svg>

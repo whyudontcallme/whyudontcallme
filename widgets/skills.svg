@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="340" viewBox="0 0 1000 340" role="img" aria-label="Skill matrix — capability analysis">
+  <title>Skill matrix — Muso Shokirov</title>
+  <defs>
+    <linearGradient id="sbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07090b"/>
+      <stop offset="100%" stop-color="#0b1116"/>
+    </linearGradient>
+    <pattern id="sgrid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#00ff66" stroke-opacity="0.05"/>
+    </pattern>
+    <linearGradient id="sfill" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00ff66"/>
+      <stop offset="100%" stop-color="#00e5ff"/>
+    </linearGradient>
+    <filter id="sglow" x="-20%" y="-200%" width="140%" height="500%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="sclip">
+      <rect width="1000" height="340" rx="14"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#sclip)">
+    <rect width="1000" height="340" fill="url(#sbg)"/>
+    <rect width="1000" height="340" fill="url(#sgrid)"/>
+
+    <rect x="16" y="16" width="968" height="36" rx="8" fill="#0d1217" stroke="#00ff66" stroke-opacity="0.25"/>
+    <circle cx="36" cy="34" r="5" fill="#ff5f56"/>
+    <circle cx="54" cy="34" r="5" fill="#ffbd2e"/>
+    <circle cx="72" cy="34" r="5" fill="#27c93f"/>
+    <text x="92" y="39" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="13" fill="#8fa395">whyudontcallme@fsociety:~/skills — capability --analyze</text>
+    <text x="884" y="39" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="11" fill="#00ff66" letter-spacing="1">6 MODULES</text>
+
+    <text x="36" y="84" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="12" fill="#5f7a6b" letter-spacing="2">CAPABILITY ANALYSIS // SELF-REPORTED · VERIFIED BY SHIPPED WORK</text>
+
+    <g font-family="Consolas, Menlo, 'Courier New', monospace">
+      <!-- Row 1 -->
+      <text x="36" y="118" font-size="13" fill="#e6f7ec">Frontend &amp; Interactive Web</text>
+      <text x="964" y="118" font-size="13" fill="#00ff66" text-anchor="end">96%</text>
+      <rect x="36" y="126" width="928" height="10" rx="5" fill="#12202a"/>
+      <rect x="36" y="126" width="891" height="10" rx="5" fill="url(#sfill)" filter="url(#sglow)">
+        <animate attributeName="width" values="0;891" dur="1.3s" begin="0.1s" fill="freeze"/>
+      </rect>
+
+      <!-- Row 2 -->
+      <text x="36" y="154" font-size="13" fill="#e6f7ec">Backend &amp; Telegram Ecosystem</text>
+      <text x="964" y="154" font-size="13" fill="#00ff66" text-anchor="end">94%</text>
+      <rect x="36" y="162" width="928" height="10" rx="5" fill="#12202a"/>
+      <rect x="36" y="162" width="872" height="10" rx="5" fill="url(#sfill)" filter="url(#sglow)">
+        <animate attributeName="width" values="0;872" dur="1.3s" begin="0.2s" fill="freeze"/>
+      </rect>
+
+      <!-- Row 3 -->
+      <text x="36" y="190" font-size="13" fill="#e6f7ec">WebGL / Canvas 3D &amp; Audio APIs</text>
+      <text x="964" y="190" font-size="13" fill="#00ff66" text-anchor="end">88%</text>
+      <rect x="36" y="198" width="928" height="10" rx="5" fill="#12202a"/>
+      <rect x="36" y="198" width="817" height="10" rx="5" fill="url(#sfill)" filter="url(#sglow)">
+        <animate attributeName="width" values="0;817" dur="1.3s" begin="0.3s" fill="freeze"/>
+      </rect>
+
+      <!-- Row 4 -->
+      <text x="36" y="226" font-size="13" fill="#e6f7ec">Security &amp; DevOps</text>
+      <text x="964" y="226" font-size="13" fill="#00ff66" text-anchor="end">90%</text>
+      <rect x="36" y="234" width="928" height="10" rx="5" fill="#12202a"/>
+      <rect x="36" y="234" width="835" height="10" rx="5" fill="url(#sfill)" filter="url(#sglow)">
+        <animate attributeName="width" values="0;835" dur="1.3s" begin="0.4s" fill="freeze"/>
+      </rect>
+
+      <!-- Row 5 -->
+      <text x="36" y="262" font-size="13" fill="#e6f7ec">AI-Augmented Engineering</text>
+      <text x="964" y="262" font-size="13" fill="#00ff66" text-anchor="end">99%</text>
+      <rect x="36" y="270" width="928" height="10" rx="5" fill="#12202a"/>
+      <rect x="36" y="270" width="919" height="10" rx="5" fill="url(#sfill)" filter="url(#sglow)">
+        <animate attributeName="width" values="0;919" dur="1.3s" begin="0.5s" fill="freeze"/>
+      </rect>
+
+      <!-- Row 6 -->
+      <text x="36" y="298" font-size="13" fill="#e6f7ec">Algorithms &amp; Data Structures</text>
+      <text x="964" y="298" font-size="13" fill="#00ff66" text-anchor="end">92%</text>
+      <rect x="36" y="306" width="928" height="10" rx="5" fill="#12202a"/>
+      <rect x="36" y="306" width="854" height="10" rx="5" fill="url(#sfill)" filter="url(#sglow)">
+        <animate attributeName="width" values="0;854" dur="1.3s" begin="0.6s" fill="freeze"/>
+      </rect>
+    </g>
+  </g>
+
+  <rect x="0.5" y="0.5" width="999" height="339" rx="14" fill="none" stroke="#00ff66" stroke-opacity="0.45"/>
+</svg>
