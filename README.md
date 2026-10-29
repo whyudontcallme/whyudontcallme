@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=07090b&height=220&section=header&text=MUSO%20SHOKIROV&fontSize=48&fontColor=00ff66&fontAlignY=38&desc=17%20y.o.%20%7C%20AI-Augmented%20Full-Stack%20Developer%20%7C%20fsociety%20mindset&descAlignY=60&descAlign=50&descSize=18&descColor=e6f7ec" width="100%" alt="Header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2400&pause=1000&color=00FF66&center=true&vCenter=true&width=800&lines=%24+whoami+--verbose;%3E+Muso+Shokirov+(17+y.o.)+from+St.+Petersburg;%24+cat+philosophy.txt;%3E+AI+is+a+force+multiplier%2C+never+a+crutch;%24+deploy+production_service;%3E+Full-Stack+%7C+Telegram+Business+Bots+%7C+WebGL+3D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2400&pause=1000&color=00FF66&center=true&vCenter=true&width=800&lines=%24+whoami+--verbose;%3E+dev+from+St.+Petersburg;%24+cat+philosophy.txt;%3E+AI+is+a+force+multiplier%2C+never+a+crutch;%24+deploy+production_service;%3E+Full-Stack+%7C+Telegram+Business+Bots+%7C+WebGL+3D" alt="Typing SVG" />
 </a>
 
 <br><br>
